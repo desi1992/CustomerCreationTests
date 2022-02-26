@@ -115,6 +115,7 @@ public class ShopAsGuestTest {
         continueToHomePageButton.click();
 
         // neshto novo za promqna na faila
+        ///moreeee
 
 
     }
